@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://e1db4b04e908.ngrok.io'
+  baseURL: 'https://one-hundred-motives-api.herokuapp.com'
 });
 
 export default api;

@@ -1,12 +1,16 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "One Hundred Motives",
+    "slug": "one-hundred-motives",
     "platforms": [
       "ios",
       "android",
       "web"
     ],
+    "android": {
+      "package": "com.noriskii.onehundredmotives",
+      "versionCode": 1
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

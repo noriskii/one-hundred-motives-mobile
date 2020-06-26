@@ -44,13 +44,13 @@ const styles = StyleSheet.create({
   input: {
     height: 46,
     alignSelf: 'stretch',
-    backgroundColor: '#75807D',
+    backgroundColor: '#FFF',
     borderWidth: 1,
     borderColor: '#FF9090',
     borderRadius: 4,
     marginTop: 20,
     paddingHorizontal: 15,
-    color: '#FFF'
+    color: '#000'
   },
   button: {
     height: 46,
